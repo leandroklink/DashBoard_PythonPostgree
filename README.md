@@ -1,4 +1,4 @@
-#📊 Dashboard RH com Streamlit + PostgreSQL
+# 📊 Dashboard RH com Streamlit + PostgreSQL
 Este é um pequeno sistema de visualização de dados de RH utilizando:
 
 - PostgreSQL como banco de dados
@@ -30,7 +30,7 @@ Editar
 pip install streamlit psycopg2-binary pandas plotly
 Configure seu banco PostgreSQL (nome: sistema_rh) com as tabelas de funcionarios, departamentos, salarios e cargos.
 
-##Rode o app:
+## Rode o app:
 
 bash
 Copiar
